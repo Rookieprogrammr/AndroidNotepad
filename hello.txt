@@ -1,2 +1,3 @@
 hello git!
-change first!
+change firs!
+fix bug scuuess!
